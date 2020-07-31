@@ -1,4 +1,7 @@
 html {
     font-family: 'Quicksand', sans-serif;
-
+    color: red;
 }
+.background {
+    background: grey;
+} 
