@@ -1,7 +1,17 @@
 html {
     font-family: 'Quicksand', sans-serif;
-    color: red;
+    color: black;
 }
 .background {
-    background: grey;
+    background:lightgrey;
 } 
+
+header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+header h1 {
+    margin: 0;
+}
