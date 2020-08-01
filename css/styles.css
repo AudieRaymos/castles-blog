@@ -3,7 +3,8 @@ html {
     color: black;
 }
 .background {
-    background:lightgrey;
+    /* background:lightgrey;  */
+    background: rgba(216, 216, 216, 0.7);
 } 
 
 header {
@@ -24,4 +25,25 @@ li {
 
 ul {
     padding: 0;
+}
+
+.leeds-image {
+    background: url(../img/leeds.jpeg) no-repeat center center fixed;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.leeds-text {
+    text-align: center;
+    font-size: 2em;
+    padding: 1.5em;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #1a1a1a;
 }
