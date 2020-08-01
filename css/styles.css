@@ -14,4 +14,14 @@ header {
 
 header h1 {
     margin: 0;
+    padding: 15px;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+}
+
+ul {
+    padding: 0;
 }
