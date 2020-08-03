@@ -116,6 +116,8 @@ aside {
     flex: 1;
     margin-left: 15px;
 }
+
+article > header {justify-content: space-around;}
 /* }
 .img-size {
     width: 800px;
