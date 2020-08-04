@@ -66,7 +66,7 @@ img {
     width: 100%;
 }
 
-i {
+li {
     margin: 0 5px;
 }
 
@@ -102,6 +102,7 @@ td:nth-child(2) {
     header nav {
         text-align: right;
     }
+}
 
 /* blog */
 .wrapper {
@@ -117,4 +118,6 @@ aside {
     margin-left: 15px;
 }
 
-article > header {justify-content: space-around;}
+article > header {
+    justify-content: space-around;
+}
